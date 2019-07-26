@@ -11,3 +11,6 @@ A Dynamic list on various Computer Science Scholarships.
 
 
 ## Developer Programs 
+* [Google Developer Student Clubs](https://developers.google.com/community/dsc/) 
+* [Microsoft Student Partner Program](https://studentpartners.microsoft.com/en-us) 
+* [GitHub Campus Experts](https://education.github.com/students/experts) 
