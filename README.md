@@ -35,7 +35,7 @@ A Dynamic list on various Computer Science Scholarships.
 * [Bitbucket Education](https://bitbucket.org/product/education)
 
 
-## Open Source Programs for Students
+## Open Source Programs/Internships for Students
 * [Google Summer of Code](https://summerofcode.withgoogle.com/)
 * [Google Season of Docs](https://developers.google.com/season-of-docs/)
 * [Kharagpur Winter of Code](https://kwoc.kossiitkgp.org/) 
@@ -54,6 +54,12 @@ A Dynamic list on various Computer Science Scholarships.
 * [Google Summer of Earth Engine](https://sites.google.com/view/summerofearthengine/home)
 * [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) 
 * [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)
+
+## Internship Finding Portals
+* [Internshala](https://internshala.com/) 
+* [Angel List](https://angel.co/)
+* [Intern Supply](https://intern.supply/)
+* [LinkedIn](https://in.linkedin.com/jobs) - works wonders
 
 
 ## Coding/Open Source Competitions/Hackathons
@@ -75,7 +81,9 @@ A Dynamic list on various Computer Science Scholarships.
 * [NVIDIA Developer Connect](https://www.nvidia.com/en-in/developer-connect/home/)
 
 
-
+Feel free to reach out to anyone of us mentioned below if you need any help, or wish to discuss anything, or perhaps just a random chat. Flashing conversations are something even we like. Yes, we do reply to emails. 
+* Jaydeep Borkar (jaijborkar@gmail.com)
+* Rohit Awate (rohitawate121@gmail.com)
 
 
 
