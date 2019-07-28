@@ -9,6 +9,7 @@ A Dynamic list on various Computer Science Scholarships. By no means is this lis
 * [NVIDIA Graduate Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) - for graduate programs. 
 * [Facebook Fellowship Program](https://research.fb.com/programs/fellowship/) - for doctoral students. 
 
+---
 
 ## Developer/Campus Ambassador Programs 
 * [Google Developer Student Clubs](https://developers.google.com/community/dsc/) 
@@ -24,6 +25,8 @@ A Dynamic list on various Computer Science Scholarships. By no means is this lis
 * [Codechef Representative Program](https://www.codechef.com/snackdown/2016/srp) 
 * [Mozilla Campus Clubs](https://campus.mozilla.community/) 
 
+---
+
 ## Developer Packs
 * [GitHub Student Developer Pack](https://education.github.com/pack) 
 * [Microsoft Azure - $100 credits for students](https://azure.microsoft.com/en-gb/free/students/) 
@@ -34,6 +37,8 @@ A Dynamic list on various Computer Science Scholarships. By no means is this lis
 * [Intel Student Developer Pack](https://software.intel.com/en-us/qualify-for-free-software/student)
 * [Bitbucket Education](https://bitbucket.org/product/education)
 
+
+---
 
 ## Open Source Programs/Internships for Students
 * [Google Summer of Code](https://summerofcode.withgoogle.com/)
@@ -55,12 +60,16 @@ A Dynamic list on various Computer Science Scholarships. By no means is this lis
 * [Alibaba Summer of Code](https://developer.aliyun.com/special/summerofcode2019en) 
 * [Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp)
 
+
+---
+
 ## Internship Finding Portals
 * [Internshala](https://internshala.com/) 
 * [Angel List](https://angel.co/)
 * [Intern Supply](https://intern.supply/)
 * [LinkedIn](https://in.linkedin.com/jobs) - works wonders
 
+---
 
 ## Coding/Open Source Competitions/Hackathons
 * [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
@@ -74,13 +83,6 @@ A Dynamic list on various Computer Science Scholarships. By no means is this lis
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 
 
 
-
-## Developer Conferences (You can watch the Keynotes live)
-* [Google I/O](https://events.google.com/io/)
-* [Microsoft Build](https://www.microsoft.com/en-us/build) 
-* [Facebook F8](https://www.f8.com/)
-* [NVIDIA Developer Connect](https://www.nvidia.com/en-in/developer-connect/home/)
-* [Apple WWDC](https://developer.apple.com/wwdc/)
 
 ---
 
