@@ -80,11 +80,15 @@ A Dynamic list on various Computer Science Scholarships. By no means is this lis
 * [Microsoft Build](https://www.microsoft.com/en-us/build) 
 * [Facebook F8](https://www.f8.com/)
 * [NVIDIA Developer Connect](https://www.nvidia.com/en-in/developer-connect/home/)
+* [Apple WWDC](https://developer.apple.com/wwdc/)
 
+---
 
 Feel free to reach out to anyone of us mentioned below if you need any help, or wish to discuss anything, or perhaps just a random chat. Flashing conversations are something even we like. Yes, we do reply to emails. 
 * Jaydeep Borkar (jaijborkar@gmail.com)
 * Rohit Awate (rohitawate121@gmail.com)
+
+---
 
 # More by Tensvect
 - [Learning Resources](https://github.com/tensvect/Learning)
