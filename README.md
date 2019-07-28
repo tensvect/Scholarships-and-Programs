@@ -93,7 +93,7 @@ Feel free to reach out to anyone of us mentioned below if you need any help, or 
 ---
 
 # More by Tensvect
-- [Learning Resources](https://github.com/tensvect/Learning)
-- [Conferences and Events](https://github.com/tensvect/Conferences-and-Events)
-- [Communities](https://github.com/tensvect/Communities)
-- [Contributors](https://github.com/tensvect/Contributors)
+- [Learning Resources](https://tensvect.github.io/Learning)
+- [Conferences and Events](https://tensvect.github.io/Conferences-and-Events)
+- [Communities](https://tensvect.github.io/Communities)
+- [Contributors](https://tensvect.github.io/Contributors)
