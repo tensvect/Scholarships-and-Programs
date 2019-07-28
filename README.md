@@ -1,5 +1,5 @@
 ## Scholarships
-A Dynamic list on various Computer Science Scholarships. 
+A Dynamic list on various Computer Science Scholarships. By no means is this list exhaustive. If you wish to contribute to this repository, please consider starting a PR. If you're new to GitHub, please refer [this](https://github.com/firstcontributions/first-contributions?source=post_page---------------------------).  
 
 * [Women Techmakers Scholarship by Google](https://www.womentechmakers.com/scholars) - only for female Computer Science students. 
 * [GHC Scholarships](https://ghc.anitab.org/2019-student-academic/scholarships/) - only for female Computer Science students.
