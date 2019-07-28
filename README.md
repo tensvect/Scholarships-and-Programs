@@ -71,6 +71,7 @@ A Dynamic list on various Computer Science Scholarships.
 * [CodeChef Coding Contests](https://www.codechef.com/)
 * [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/)
 * [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/)
+* [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 
 
 
 
