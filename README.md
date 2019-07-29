@@ -81,6 +81,8 @@ A Dynamic list on various Computer Science Scholarships. By no means is this lis
 * [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/)
 * [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/)
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 
+* [Smart India Hackathon](https://www.sih.gov.in/)
+* [CFT Hacks](https://cfthacks.cofounderstown.com/) 
 
 
 
