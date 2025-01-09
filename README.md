@@ -1,13 +1,14 @@
 ## Scholarships
 A Dynamic list on various Computer Science Scholarships. By no means is this list exhaustive. If you wish to contribute to this repository, please consider starting a PR. If you're new to GitHub, please refer [this](https://github.com/firstcontributions/first-contributions?source=post_page---------------------------).  
 
-* [Women Techmakers Scholarship by Google](https://www.womentechmakers.com/scholars) - only for female Computer Science students. 
-* [GHC Scholarships](https://ghc.anitab.org/2019-student-academic/scholarships/) - only for female Computer Science students.
+* [Women Techmakers Scholarship by Google](https://www.womentechmakers.com/scholars) - for female Computer Science students. 
+* [GHC Scholarships](https://ghc.anitab.org/2019-student-academic/scholarships/) - for female Computer Science students.
 * [Udacity Scholarships](https://www.udacity.com/scholarships) 
-* [Peter Thiel Scholarship](http://thielfellowship.org/) - $100,000 fellowship, you should be willing to drop out of the college and   becoming an entrepreneur to get the fellowship. 
+* [Peter Thiel Scholarship](http://thielfellowship.org/) 
 * [Richard E. Merwin Student Scholarship](https://www.computer.org/volunteering/awards/scholarships/merwin) - you should be an IEEE member. 
 * [NVIDIA Graduate Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/) - for graduate programs. 
-* [Facebook Fellowship Program](https://research.fb.com/programs/fellowship/) - for doctoral students. 
+* [Facebook Fellowship Program](https://research.fb.com/programs/fellowship/) - for doctoral students.
+* [Scholarships for Women in STEM](https://www.madisontrust.com/client-resources/articles/scholarships-for-women-in-stem/) - shared by an awesome STEM club for girls! 
 
 ---
 
